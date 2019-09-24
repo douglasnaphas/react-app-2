@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OmniSearch/OmniSearchPage three characters are required to initiate search 1`] = `ShallowWrapper {}`;
+
+exports[`OmniSearch/OmniSearchPage three characters are required to initiate search 2`] = `ShallowWrapper {}`;
+
+exports[`OmniSearch/OmniSearchPage three characters are required to initiate search 3`] = `ShallowWrapper {}`;
